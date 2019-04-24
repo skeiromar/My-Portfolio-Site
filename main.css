@@ -1,0 +1,30 @@
+/* #aws {
+    width: 100px;
+    height: 100px;
+} */
+
+#skills-container {
+    margin-top: 35px;
+    margin-left: 15px;
+}
+#skills-container svg {
+    width: 72px; 
+    height: 75px; 
+}
+#skills-container svg:not(:last-child) {
+    margin-right: 20px;
+}
+path {
+    fill: #000000;
+
+}
+/* 
+#port-img {
+    max-height: 230px;
+    margin-left: 10px;
+    padding-left: 10px;
+} */
+
+.mask figure img {
+    height: 230px;
+}
