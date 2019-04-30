@@ -28,3 +28,18 @@ path {
 .mask figure img {
     height: 230px;
 }
+
+.toast {
+    width: 200px; 
+    /* height: 1000px; */
+    background: rgb(45, 216, 45);
+    position: absolute;
+    right: 10%;
+    bottom: -215%;
+    padding: 20px;
+    color: white;
+    border-radius: 3%;
+}
+#toast-container {
+    /* visibility: hidden; */
+}
